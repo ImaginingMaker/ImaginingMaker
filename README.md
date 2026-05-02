@@ -1,34 +1,47 @@
-# 🍉 欢迎来到我的 GitHub
-
-## 我的知识历程
-
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/vue-black?style=flat&logo=vue.js&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/react-black?style=flat&logo=react&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/typescript-black?style=flat&logo=typescript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/vite-black?style=flat&logo=vite&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/webpack-black?style=flat&logo=webpack&logoColor=%23F7DF1E)
+# 🌈 About Me
 
-![Static Badge](https://img.shields.io/badge/docker-black?style=flat&logo=docker&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/python-black?style=flat&logo=python&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/mysql-black?style=flat&logo=mysql&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/linux-black?style=flat&logo=linux&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/nginx-black?style=flat&logo=nginx&logoColor=%23F7DF1E)
-
-![Static Badge](https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/cloudflare-black?style=flat&logo=cloudflare&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/netlify-black?style=flat&logo=netlify&logoColor=%23F7DF1E)
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaginingMaker&count_private=true&layout=compact">
+📍 China | 🕐 UTC+8 | 🎯 Frontend Developer
 
 </div>
 
-## 我的 GitHub 统计
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImaginingMaker&show_icons=true&theme=radical&count_private=true)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ImaginingMaker&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [TDesign Vue Next](https://github.com/Tencent/tdesign-vue-next) | Vue 3.x UI Component Library | ⭐ 2.1k+ |
+| [TDesign Mobile React](https://github.com/Tencent/tdesign-mobile-react) | React Mobile UI Component Library | ⭐ 98+ |
+| [Open-Skills-Manager](https://github.com/ImaginerLabs/Open-Skills-Manager) | Multi-IDE Skills Manager | 🛠️ |
+| [Encrypted-Bookmark](https://github.com/ImaginerLabs/Encrypted-Bookmark) | Chrome Encrypted Bookmark Extension | 🔐 |
 
 </div>
