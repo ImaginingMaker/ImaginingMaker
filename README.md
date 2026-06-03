@@ -39,9 +39,7 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [TDesign Vue Next](https://github.com/Tencent/tdesign-vue-next) | Vue 3.x UI Component Library | ⭐ 2.1k+ |
-| [TDesign Mobile React](https://github.com/Tencent/tdesign-mobile-react) | React Mobile UI Component Library | ⭐ 98+ |
 | [Open-Skills-Manager](https://github.com/ImaginerLabs/Open-Skills-Manager) | Multi-IDE Skills Manager | 🛠️ |
-| [Encrypted-Bookmark](https://github.com/ImaginerLabs/Encrypted-Bookmark) | Chrome Encrypted Bookmark Extension | 🔐 |
+| [AgenticWiki](https://github.com/ImaginingMaker/AgenticWiki) | Agentic generation of project Wiki and issue analysis  | 📄 |
 
 </div>
