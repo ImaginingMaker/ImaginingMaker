@@ -41,5 +41,6 @@
 |---------|-------------|-------|
 | [Open-Skills-Manager](https://github.com/ImaginerLabs/Open-Skills-Manager) | Multi-IDE Skills Manager | 🛠️ |
 | [AgenticWiki](https://github.com/ImaginingMaker/AgenticWiki) | Agentic generation of project Wiki and issue analysis  | 📄 |
+| [AgenticDevFlow](https://github.com/ImaginingMaker/AgenticDevFlow) | Agentic generation of Dev Workflow  | 📄 |
 
 </div>
